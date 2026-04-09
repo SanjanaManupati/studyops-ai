@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+langchain-community
+chromadb
+streamlit
+duckduckgo-search
+requests
+python-dotenv
+langsmith
