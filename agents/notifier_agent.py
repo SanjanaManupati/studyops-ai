@@ -51,7 +51,7 @@ def send_telegram_notification(analysis: str, schedule: str, resources: str) -> 
     payload = {
         "chat_id": chat_id,
         "text": message,
-        "parse_mode": "Markdown"
+        #"parse_mode": "Markdown"
     }
 
     try:
